@@ -38,7 +38,7 @@ resting electrocardiographic results, and maximum heart rate achieved.
 The purpose of this project is to predict the probability of patient's getting heart attack based on factors given. This project was classified under classification problem and been solved by the Machine learning approach.
 
 - Research Questions
-1. What are the accuracy of the model after hypertuning
+1. What are the best accuracy of the model after hypertuning in predict the probability of patient's getting heart attack?
 2. What are the best features used for this model
 
 ## Data Insights
