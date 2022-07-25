@@ -20,6 +20,21 @@ July 2022
 
 ## About The Project
 
+According to World Health Organisation (WHO), every year around 17.9 million 
+deaths are due to cardiovascular diseases (CVDs) predisposing CVD becoming 
+the leading cause of death globally. CVDs are a group of disorders of the heart 
+and blood vessels, if left untreated it may cause heart attack. Heart attack occurs 
+due to the presence of obstruction of blood flow into the heart. The presence of 
+blockage may be due to the accumulation of fat, cholesterol, and other substances. 
+Despite treatment has improved over the years and most CVD’s pathophysiology 
+have been elucidated, heart attack can still be fatal. 
+Thus, clinicians believe that prevention of heart attack is always better than curing 
+it. After many years of research, scientists and clinicians discovered that, the 
+probability of one’s getting heart attack can be determined by analysing the
+patient’s age, gender, exercise induced angina, number of major vessels, chest 
+pain indication, resting blood pressure, cholesterol level, fasting blood sugar, 
+resting electrocardiographic results, and maximum heart rate achieved. 
+ 
 The purpose of this project is to predict the probability of patient's getting heart attack based on factors given. This project was classified under classification problem and been solved by the Machine learning approach.
 
 - Research Questions
@@ -30,10 +45,8 @@ The purpose of this project is to predict the probability of patient's getting h
 
 ![image](https://user-images.githubusercontent.com/109565405/180803517-91070885-2cc1-4395-bfa6-83d355c3dea4.png)
 
-# sex vs output: Male patients have higher chance of getting heart disease 
-  compared to female patients where they might have profile of chest pain of atypical angina, fasting blood sugar < 120 mg/dl
-  rest_ecg at normal ,number of major vessels(caa) at 0, thalassemia(thall) level at normal stage, the slope of the peak exercise ST segment at downsloping.
-  and ST depression induced by exercise relative to rest(old peak) at 0.
+# sex vs output:  
+Male patients have higher chance of getting heart diseasecompared to female patients where they might have profile of chest pain of atypical angina, fasting blood  sugar < 120 mg/dl rest_ecg at normal ,number of major vessels(caa) at 0, thalassemia(thall) level at normal stage, the slope of the peak exercise ST segment at downsloping and ST depression induced by exercise relative to rest(old peak) at 0.
   
 
 ## Libraries that been used
