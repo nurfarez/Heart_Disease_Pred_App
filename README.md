@@ -72,6 +72,7 @@ Male patients have higher chance of getting heart diseasecompared to female pati
 ![image](https://user-images.githubusercontent.com/109565405/180802198-171705f5-c699-4af4-bac3-821c91d90ad7.png)
 
 ![image](https://user-images.githubusercontent.com/109565405/180802295-3833cd52-6c9c-4548-af36-b4d1e51b295f.png)
-#retrain with test data, got accuracy of with best model after tuning [90%]
+
+when we retrain the tuning model with test data, the accuracy obtained is [90%]
 
 For future researcher, its best to stay with default model where the model accuracy might increased compared with the tuning model.
