@@ -66,7 +66,7 @@ Male patients have higher chance of getting heart disease compared to female pat
 
 ![image](https://user-images.githubusercontent.com/109565405/180801978-9fa19c39-741c-4b20-a811-49bbf7324c18.png)
 
-#The model accuracy has been increased from 0.73 to 0.71 after the hypertuning with GridSearchCV where
+#The model accuracy has been increased from 0.73 to 0.77 after the hypertuning with GridSearchCV where
 #the best parameters/estimators of this model is C=100 and solver of lbfgs after hypertuning 
 
 ![image](https://user-images.githubusercontent.com/109565405/180802198-171705f5-c699-4af4-bac3-821c91d90ad7.png)
@@ -74,8 +74,6 @@ Male patients have higher chance of getting heart disease compared to female pat
 ![image](https://user-images.githubusercontent.com/109565405/180802295-3833cd52-6c9c-4548-af36-b4d1e51b295f.png)
 
 when we retrain the tuning model with test data, the accuracy obtained is [90%]
-
-For future researcher, its best to stay with default model where the model accuracy might increased compared with the tuning model.
 
 
 ## Credits
