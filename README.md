@@ -76,3 +76,8 @@ Male patients have higher chance of getting heart diseasecompared to female pati
 when we retrain the tuning model with test data, the accuracy obtained is [90%]
 
 For future researcher, its best to stay with default model where the model accuracy might increased compared with the tuning model.
+
+
+## Credits
+Thanks to (https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset) for contributions of dataset
+
