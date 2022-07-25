@@ -337,8 +337,9 @@ print(model.score(X_new,y_pred_new))
 # Discussion
 
 #The scaler and classifier for this model is logistic regression with MinMaxScaler
-#The model accuracy has been increased from 0.73 to 0.77 after the hypertuning with GridSearchCV where
-#the best parameters/estimators of this model is C=100 and solver of lbfgs after hypertuning 
+#The model accuracy has been increased from 0.73 to 0.71 after the hypertuning with GridSearchCV where
+#the best parameters/estimators of this model is C=100 and solver of lbfgs after hypertuning
+#For the future researcher, it is suggested to used default model compared with tuning model as it could increased the accuracy model
 
 #retrain with test data, got accuracy of with best model after tuning [90%]
 
