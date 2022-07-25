@@ -46,7 +46,7 @@ The purpose of this project is to predict the probability of patient's getting h
 ![image](https://user-images.githubusercontent.com/109565405/180803517-91070885-2cc1-4395-bfa6-83d355c3dea4.png)
 
 # sex vs output:  
-Male patients have higher chance of getting heart diseasecompared to female patients where they might have profile of chest pain of atypical angina, fasting blood  sugar < 120 mg/dl rest_ecg at normal ,number of major vessels(caa) at 0, thalassemia(thall) level at normal stage, the slope of the peak exercise ST segment at downsloping and ST depression induced by exercise relative to rest(old peak) at 0.
+Male patients have higher chance of getting heart disease compared to female patients where they might have profile of chest pain of atypical angina, fasting blood  sugar < 120 mg/dl rest_ecg at normal ,number of major vessels(caa) at 0, thalassemia(thall) level at normal stage, the slope of the peak exercise ST segment at downsloping and ST depression induced by exercise relative to rest(old peak) at 0.
   
 
 ## Libraries that been used
